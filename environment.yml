@@ -1,0 +1,13 @@
+name: dask
+dependencies:
+    - python=3.7
+    - jupyter
+    - dask
+    - graphviz
+    - python-graphviz
+    - pandas
+    - numpy
+    - matplotlib
+    - seaborn
+    - bokeh
+    - conda-forge::pyarrow
